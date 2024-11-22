@@ -84,7 +84,7 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Submit a pull request with a detailed explanation of your changes.
 Support
-For any issues or suggestions, feel free to raise an issue on the repository or contact us at support@airshed.com.
+For any issues or suggestions, feel free to raise an issue on the repository or contact us at amansah17airshed@gmail.com.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
